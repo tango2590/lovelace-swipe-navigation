@@ -1,6 +1,6 @@
 # Lovelace Swipe Navigation
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/custom-components/hacs) [![hacs_badge](https://img.shields.io/badge/Buy-Me%20a%20Coffee-critical)](https://www.buymeacoffee.com/FgwNR2l)
+Forked from mayker. All credit goes back to him.
 
 Swipe through Lovelace views on mobile.
 
